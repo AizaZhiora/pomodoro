@@ -1,4 +1,9 @@
-# Pomodoro
+# GUI Pomodoro
+Libraries:
+  - tkinter
+  - math
+  - plyer
+
 This is a pomodoro timer, send a notification:
   - Work time 25 min
   - Short break time 5 min
