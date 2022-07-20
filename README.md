@@ -7,6 +7,9 @@ This is a pomodoro timer, send a notification:
   
  ## LET'S WORK 😄
  
+ ![image](https://user-images.githubusercontent.com/94363566/179888233-6dd81b49-74d7-49b2-bca6-e26adf95ec81.png)
+
+ 
 > Libraries:
 > - tkinter
 > - math
